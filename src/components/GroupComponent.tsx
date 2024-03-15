@@ -96,7 +96,7 @@ const GroupComponent: FunctionComponent = () => {
       <FrameChild alt="" src="/control-flow@2x.png" />
       <RectangleGroup>
         <FrameItem />
-        <Unchecked type="checkbox" />
+        <Unchecked type="checkbox"/>
         <FrameWrapper>
           <OffWrapper>
             <Off>10% Off</Off>
@@ -104,7 +104,7 @@ const GroupComponent: FunctionComponent = () => {
         </FrameWrapper>
       </RectangleGroup>
       <FrameContainer>
-        <FrameInner alt="" src="/group-289589.svg" />
+        <FrameInner alt="" src="/group-289589.svg"/>
       </FrameContainer>
     </RectangleParentRoot>
   );
